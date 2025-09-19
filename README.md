@@ -68,11 +68,11 @@ All website content, product information, and branding are © EquipAfrica Techno
 Website design and development proudly by TechSoln Co.
 
 3. **Contact**
-Website: www.equipafrica.site
+Website: www.equipafrica.co.ke
 
-Email: info@equipafrica.site
+Email: info@equipafrica.co.ke
 
-Phone: +254 116-364-403
+Phone: +254 7XX XXX XXX
 
 Social: Facebook, Instagram, LinkedIn, YouTube
 
